@@ -11,7 +11,7 @@ Playing Videogames with a Banana Keyboard
 
 https://www.youtube.com/watch?v=TgNwdKuQWC0
 
-![Image]()
+![Image](WechatIMG162.jpeg)
 
 This project is related to mine because (insert reasons here).
 
