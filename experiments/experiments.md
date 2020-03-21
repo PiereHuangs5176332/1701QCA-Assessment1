@@ -19,7 +19,7 @@ Unfortunately this experiment ended as a failure, but after all it is an experim
 
 For many experiments to work, it is important for us to make and complete a electricity circuit, it is like completeing a circle, and if we dont connect the end of a circle (start point and finish point)the circle would not be completed, where anything in the middle will not be connected as well, and this is the same as electricity circuits, in our experiment we didn't connect the ultrasonic scensor to the GND, where this cause the whole electricity circuit to fail as it didn't form a "circle", and this was what went wrong in our experiment and what I have learned from it.
 
-This experiment could be the basis of a real world application such as (insert something here).
+This experiment could be the basis of a real world application such as an auto driving car, the ultrasonic scensor can be a scensor that triggers the car to stop when it is too close to other cars or things on the road, the future is limitless as this technology can be more advance than now or it could already be used in auto driving cars that are still under development.
 
 ### Experiment name ###
 
