@@ -22,6 +22,8 @@ https://www.youtube.com/watch?v=B2esj9-7RU4
 
 ![Image](WechatIMG163.jpeg)
 
+this project is related to mine is becasue we were both using "fruits" as keyboards to make music, but comparing mine to this project, there were more variety of fruits used in the project compared to mine, but the idea and the concept were both the same, both were about using fruits as keyboards to make music.
+
 ## Reading reflections ##
 *Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
 
