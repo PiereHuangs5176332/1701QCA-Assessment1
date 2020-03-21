@@ -8,7 +8,7 @@ Ultrasonic Scensor Experiment
 #### Photo of completed project ####
 *In the code below, replace `missingimage.png` with the name of the image, which should be in the `kitexperiments` folder.*
 
-![Image](WechatIMG140.jpeg)
+![Image](WechatIMG141.jpeg)
 
 (Insert a caption here)
 
