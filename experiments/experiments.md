@@ -6,11 +6,10 @@
 Ultrasonic Scensor Experiment
 
 #### Photo of completed project ####
-*In the code below, replace `missingimage.png` with the name of the image, which should be in the `kitexperiments` folder.*
 
 ![Image](WechatIMG141.jpeg)
 
-(Insert a caption here)
+(This experiment was done in class, by connecting the ultrasonic scensor with the microbit, we would be able to detect the distance with the ultrasonic scensor and the numbers on the microbit screen would change as the scensor feels something approaching or within its scensor redius.)
 
 #### Reflection ####
 
