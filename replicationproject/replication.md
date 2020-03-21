@@ -11,7 +11,7 @@ Playing Videogames with a Banana Keyboard
 
 https://www.youtube.com/watch?v=TgNwdKuQWC0
 
-![Image](螢幕快照 2020-03-21 下午7.29.48.png)
+![Image](videogame keyboard.png)
 
 This project is related to mine because (insert reasons here).
 
