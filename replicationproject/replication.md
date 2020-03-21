@@ -15,6 +15,13 @@ https://www.youtube.com/watch?v=srWDRWrSHZM&t=41s
 
 This project is related to mine because we were both using Banana as our Keyboard but just with different purpose, the concept is the same, but in the video, his is more complicated than my.
 
+### Related project 2 ###
+Fruit Keyboard
+
+https://www.youtube.com/watch?v=B2esj9-7RU4
+
+![Image](WechatIMG162.jpeg)
+
 ## Reading reflections ##
 *Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
 
