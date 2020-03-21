@@ -20,7 +20,7 @@ Fruit Keyboard
 
 https://www.youtube.com/watch?v=B2esj9-7RU4
 
-![Image](WechatIMG162.jpeg)
+![Image](WechatIMG163.jpeg)
 
 ## Reading reflections ##
 *Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
