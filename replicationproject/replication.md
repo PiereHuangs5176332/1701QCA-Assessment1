@@ -9,11 +9,11 @@ The project i have chosen to replicate is the Banana Keyboard
 ### Related project 1 ###
 Playing Videogames with a Banana Keyboard
 
-https://www.youtube.com/watch?v=TgNwdKuQWC0
+https://www.youtube.com/watch?v=srWDRWrSHZM&t=41s
 
 ![Image](WechatIMG162.jpeg)
 
-This project is related to mine because (insert reasons here).
+This project is related to mine because we were both using Banana as our Keyboard but just with different purpose, the concept is the same, but in the video, his is more complicated than my.
 
 ## Reading reflections ##
 *Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
