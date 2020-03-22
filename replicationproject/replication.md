@@ -74,13 +74,13 @@ This project is related to my project is becasue I believe we share the same con
 
 ### Reading: Chapter 1 of Dan Saffer, Microinteractions: Designing with Details, Chapter 1 ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+*What I thought before: Before reading this source, I had no idea that Microinteractions were such a big thing, and had such a large part in our daily lives, also the impact on the technology we have today compare to the past, it is advancing at a really fast pace and the future of it is limitless.
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+*What I learned: From readig the source, I have learned that Microinteraction are actually all around us, it is in our daily lives, and it is nearly impossible to live without them now as they stand a really important part for our daily lives to function. What may seem impossible now can and could be accomplish in the future, as in the past, the technology we have in present days didn't exist, therefore that Microinteraction really stand a important part in our lives and also our future.
 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
+*What I would like to know more about: What will the Microinteraction future be like in 10 to 20 years or even further?
 
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+*How this relates to the project I am working on: The realtion of the reading with my project is that Microinteractions were used in both of them, as Banana Keyboard is a more simple version of an actual keyboard that shares the same concept, they both sends a signal to an Microbit(computer) which will trigger the code to do what they are designed to do, the reading talkes about Microinteraction, and using a microbit to make a Nanana keyboard is also an interaction with Micro. Microinteraction is everywhere in our lives, our phones, computer...etc. Banana Keyboard is just a simple project and a samll part of the big "Microinteraction" thing around the world.  
 
 ### Reading: Scott Sullivan, Prototyping Interactive Objects ###
 
