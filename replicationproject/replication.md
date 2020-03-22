@@ -61,9 +61,6 @@ https://www.youtube.com/watch?v=ECZbW2jcPcw
 This project is related to my project is becasue I believe we share the same concept, and this project is also really similar to the LED Floor project mentioned in the previous related project, but this time this project used more like a touch screen type of thing to create his project, this is different with the Banana Keyboard as we will need to press, and this project only requires touch, but the concept and coding could still be similar and touching triggers the code to send the message to the screen the make difference/movement when the user is touching the screen. This is similar to the Banana Keyboard as it also required actions to trigger the code the send a message to the center computer(microbit), but in our case we dont make screen movements but music. 
 
 ## Reading reflections ##
-*Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
-
-*For each of the assigned readings, answer the questions below.*
 
 ### Reading: Don Norman, The Design of Everyday Things, Chapter 1 (The Psychopathology of Everyday Things) ###
 
