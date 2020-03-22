@@ -84,13 +84,13 @@ This project is related to my project is becasue I believe we share the same con
 
 ### Reading: Scott Sullivan, Prototyping Interactive Objects ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+*What I thought before: Before reading this source, I didn't know that coding will become so important in "design" in the future as the source state it, but after reading it, it is for me to believe that coding will become an important part of the design future and also a needed ability for an designer in the future.
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+*What I learned: With the large possible opportunity for design in the future, as customers expectations have grown to a point that they are no longer just looking for "designs" but looking for advanced digital functions in their off screen lives, with the advance of technologies around the presnet world, it is not hard to imagine how advance the technology could be in the future, and it is a job for designers to help the people to emerge into the future and the provide them solutions to the problems in their daily lives, knowing how to code as a designer in the future is an important ability as most of our daily life function is already depending on technology in present days, technologies will only become better and more advanced, it is the job for designers to adapt and emerge with the future.
 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
+*What I would like to know more about: With the advancing of technologies, where do we see "Design" in the next 20 to 50 years? 
 
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+*How this relates to the project I am working on: Creative thinking is a important part for a designer as we are suppose to be solving problems in the present and the future, Banana Keyboard is a craetive thoguht by using Banana as keyboards to create music. As the reading states that coding will be important in the future, this is what we are building up now, starting simple but yet not too simple, Banana Keyboard's coding is simple, but it is not as simple as it looks as we need to understand the code itself. The reading explains the reason why coding will be important in the future, and this is what my project is about, coding and creating. 
 
 
 ## Interaction flowchart ##
