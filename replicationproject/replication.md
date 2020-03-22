@@ -64,9 +64,9 @@ This project is related to my project is becasue I believe we share the same con
 
 ### Reading: Don Norman, The Design of Everyday Things, Chapter 1 (The Psychopathology of Everyday Things) ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+*What I thought before: Actually having to read some part of this book in other courses was very interesting, as Don Norman was well- known for the problems he has with "Doors", and it became so well known that people started calling proble doors the "Norman Doors", before reading this book and hearing the name "Norman Door", I thought it was a kind of design for doors, but i was wrong, it means doors that were designed wrong or not used for what it is designed for.  
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+*What I learned: After reading this Chapter and other parts of the book, 
 
 *What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
 
