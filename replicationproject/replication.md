@@ -40,6 +40,8 @@ https://www.youtube.com/watch?v=zY2k75eWrLQ
 
 ![Image](WechatIMG165.jpeg)
 
+This project is realted to mine is becasue the two of our project were basically sharing the same concept, when the key on the keyboard is pressed down, it sends a message to the center in this case the computer, than letters comes out or actions made, and this is the same with my project, as when the banana is pressed, it sends a signal/message to the microbit to trigger the code to make music. The Hand Wired Keyboard project is like a more complicated and professional version of a Banana keyboard, considering the two basically does the samething in sending message to the control center to trigger actions as what they are coded to do.
+
 ## Reading reflections ##
 *Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
 
