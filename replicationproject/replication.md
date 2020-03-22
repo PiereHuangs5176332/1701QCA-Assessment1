@@ -33,6 +33,12 @@ https://www.youtube.com/watch?v=AWEdpTOtL6M
 
 The reason this project is realted to my project is because in this project, he is also using "fruit" to create a electrical circuit, but instead using the lemon to become a keyboard and make music with it, this project uses lemon as a source of electricity, and the electricity of four lemon comboned generated enough electricity to successfuly light up the LED.
 
+### Related project 4 ###
+Hand Wired Keyboard
+
+https://www.youtube.com/watch?v=zY2k75eWrLQ
+
+![Image](WechatIMG165.jpeg)
 
 ## Reading reflections ##
 *Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
