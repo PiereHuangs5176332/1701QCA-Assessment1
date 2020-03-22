@@ -51,6 +51,15 @@ https://www.youtube.com/watch?v=g6N9Qid8Tqs&list=PLUFYSjzJt4pSAkPLRojNrTt6ZOVkDm
 
 This project is related to mine is becasue i believe that we have used the same concept in our projects, with the LED Floor project, the movement of "colors" are triggered when someone steps on it and walks on it, it is technically the same as the Banana Keyboard, as on press music comes out. With the LED Floor, they could be using a motion scensor, touch screen type or the same as the Banana keyboard "on press", therefore when something is detected, it triggers the code to make LED colors to follow the motion. The concept is likly to be the same, but the LED Floor project is definitely more challenging to create and more time consuming. 
 
+### Related project 6 ###
+What the Future of Art Will Look Like
+
+https://www.youtube.com/watch?v=ECZbW2jcPcw
+
+![Image](WechatIMG167.jpeg)
+
+This project is related to mine is becasue i believe that we have used the same concept in our projects, with the LED Floor project, the movement of "colors" are triggered when someone steps on it and walks on it, it is technically the same as the Banana Keyboard, as on press music comes out. With the LED Floor, they could be using a motion scensor, touch screen type or the same as the Banana keyboard "on press", therefore when something is detected, it triggers the code to make LED colors to follow the motion. The concept is likly to be the same, but the LED Floor project is definitely more challenging to create and more time consuming. 
+
 ## Reading reflections ##
 *Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
 
