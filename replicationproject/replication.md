@@ -70,7 +70,7 @@ This project is related to my project is becasue I believe we share the same con
 
 *What I would like to know more about: What I would like to know more about is how can we connect and seperate "spaces" without the use of door ?, this sounds like a simple question but yet also very complicated to come up with a solution.
 
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+*How this relates to the project I am working on: The book makes me think more about the "design concept" for my project, as if I was to design something that is "user based" it is important for me to understand "Human Cebtered Design" to have the best outcome for my project.
 
 ### Reading: Chapter 1 of Dan Saffer, Microinteractions: Designing with Details, Chapter 1 ###
 
