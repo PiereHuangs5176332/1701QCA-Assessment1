@@ -66,9 +66,9 @@ This project is related to my project is becasue I believe we share the same con
 
 *What I thought before: Actually having to read some part of this book in other courses was very interesting, as Don Norman was well- known for the problems he has with "Doors", and it became so well known that people started calling proble doors the "Norman Doors", before reading this book and hearing the name "Norman Door", I thought it was a kind of design for doors, but i was wrong, it means doors that were designed wrong or not used for what it is designed for.  
 
-*What I learned: After reading this Chapter and other parts of the book, 
+*What I learned: After reading this Chapter and other parts of the book, I have learned that "user experience" are very important, and as we are mainly creating things for people to use, Human Centered Design is an important part we need to think about, a "good" design is often hard to notice compare to the "bad" designs, as "good" designs blend in to our daily lives so well that we don't even notice it. Also the book mentions that often simple designs are the most confusing, it is important for us to do research, understand it before creating it.
 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
+*What I would like to know more about: What I would like to know more about is how can we connect and seperate "spaces" without the use of door ?, this sounds like a simple question but yet also very complicated to come up with a solution.
 
 *How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
 
