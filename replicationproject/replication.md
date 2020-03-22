@@ -49,7 +49,7 @@ https://www.youtube.com/watch?v=g6N9Qid8Tqs&list=PLUFYSjzJt4pSAkPLRojNrTt6ZOVkDm
 
 ![Image](WechatIMG166.jpeg)
 
-This project is related to mine is becasue i believe that we have used the same concept in our projects, with the LED Floor project, the movement of "colors" are triggered when someone steps on it and walks on it, it is technically the same as the Banana Keyboard, as on press music comes out. With the LED Floor, they could be using a motion scensor, touch screen type or the same as the Banana keyboard "on press", therefore when something is detected, it triggers the code to make LED colors to follow the motion. The concept is likly to be the same, but the LED Floor project is definitely more challenging to create and more time consuming. 
+This project is related to mine is becasue I believe that we have used the same concept in our projects, with the LED Floor project, the movement of "colors" are triggered when someone steps on it and walks on it, it is technically the same as the Banana Keyboard, as on press music comes out. With the LED Floor, they could be using a motion scensor, touch screen type or the same as the Banana keyboard "on press", therefore when something is detected, it triggers the code to make LED colors to follow the motion. The concept is likly to be the same, but the LED Floor project is definitely more challenging to create and more time consuming. 
 
 ### Related project 6 ###
 What the Future of Art Will Look Like
@@ -58,7 +58,7 @@ https://www.youtube.com/watch?v=ECZbW2jcPcw
 
 ![Image](WechatIMG167.jpeg)
 
-This project is related to mine is becasue i believe that we have used the same concept in our projects, with the LED Floor project, the movement of "colors" are triggered when someone steps on it and walks on it, it is technically the same as the Banana Keyboard, as on press music comes out. With the LED Floor, they could be using a motion scensor, touch screen type or the same as the Banana keyboard "on press", therefore when something is detected, it triggers the code to make LED colors to follow the motion. The concept is likly to be the same, but the LED Floor project is definitely more challenging to create and more time consuming. 
+This project is related to my project is becasue I believe we share the same concept, and this project is also really similar to the LED Floor project mentioned in the previous related project, but this time this project used more like a touch screen type of thing to create his project, this is different with the Banana Keyboard as we will need to press, and this project only requires touch, but the concept and coding could still be similar and touching triggers the code to send the message to the screen the make difference/movement when the user is touching the screen. This is similar to the Banana Keyboard as it also required actions to trigger the code the send a message to the center computer(microbit), but in our case we dont make screen movements but music. 
 
 ## Reading reflections ##
 *Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
