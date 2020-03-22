@@ -94,9 +94,9 @@ This project is related to my project is becasue I believe we share the same con
 
 
 ## Interaction flowchart ##
-*Draw a flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
+To consider a user might use this to do what I didn't make this project for, the whole things wouldn't really work if you take the "Banana" away from the whole device, as the banana was the "trigger" to all the codes. Yes you can replace the banana with other fruits but that wouldn't change the whoel device, it will just change the fruit. The only thing I could think of that this device could be used which was no my intend was to annoy people with the buzzer, to create mess, waste fruit. There are no danger in this project as the batteries would not create enought voltage to electrocute people/user, the only danger in the project could be the jumper wires, as they have a sharp point at the end of each of them, it could be dangers when not used with care and could cause injuries but nothing major that could harm life. 
 
-![Image](missingimage.png)
+![Image](WechatIMG168.jpeg)
 
 ## Process documentation
 
