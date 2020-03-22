@@ -2,7 +2,7 @@
 
 
 ## Replication project choice ##
-The project i have chosen to replicate is the Banana Keyboard
+The project I have chosen to replicate is the Banana Keyboard
 
 ## Related projects ##
 
@@ -22,7 +22,7 @@ https://www.youtube.com/watch?v=B2esj9-7RU4
 
 ![Image](WechatIMG163.jpeg)
 
-this project is related to mine is becasue we were both using "fruits" as keyboards to make music, but comparing mine to this project, there were more variety of fruits used in the project compared to mine, but the idea and the concept were both the same, both were about using fruits as keyboards to make music.
+This project is related to mine is becasue we were both using "fruits" as keyboards to make music, but comparing mine to this project, there were more variety of fruits used in the project compared to mine, but the idea and the concept were both the same, both were about using fruits as keyboards to make music.
 
 ### Related project 3 ###
 Glowing LED with Lemon
@@ -30,6 +30,8 @@ Glowing LED with Lemon
 https://www.youtube.com/watch?v=AWEdpTOtL6M
 
 ![Image](WechatIMG164.jpeg)
+
+The reason this project is realted to my project is because in this project, he is also using "fruit" to create a electrical circuit, but instead using the lemon to become a keyboard and make music with it, this project uses lemon as a source of electricity, and the electricity of four lemon comboned generated enough electricity to successfuly light up the LED.
 
 
 ## Reading reflections ##
