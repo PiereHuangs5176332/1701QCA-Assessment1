@@ -109,7 +109,7 @@ After the first attempt, I went further into the tutorial and created the more c
 I was trying to connect my jumper wires to my headphones with a maskin tape to connect them together, but it didn't work fro me, therefore I have changed all of my project attempts into using the buzzer as result in the photo of all attempts. 
 ![Image](WechatIMG156.jpeg)
 ![Image](WechatIMG157.jpeg)
-After doing all of the attempts, I have decided to play with the project abit by adding an LED into the project as the LED would change the brightness by a little bit with the musicand then turns off then back on showing a cycle of the project, cycle: Press banana, music, LED. This is the cycle i have created in my project.
+After doing all of the attempts, I have decided to play with the project abit by adding an LED into the project as the LED would change the brightness by a little bit with the musicand then turns off then back on showing a cycle of the project, cycle: Press banana, music, LED. This is the cycle i have created in my project. Which I wil be showing in my project outcome. 
 
 ## Project outcome ##
 
