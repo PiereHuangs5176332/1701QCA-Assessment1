@@ -23,7 +23,7 @@ This experiment could be the basis of a real world application such as an auto d
 
 ### Experiment name ###
 
-(Replace this with the experiment name)
+Microbit Flex Scensor
 
 #### Photo of completed project ####
 
@@ -33,9 +33,11 @@ A final completion of the expermient done
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, something new to me was or something I learned was the coding and also the building of this experiment. As I am new to the Microbit world, I dont know much about the variety of the equipments and what are they, in this experiment I have discovered something i have never seen before, and that is the Flex sensor, the Flex sensor measures resistance on its flex, and it only sensors the resistance when it is bend from the opposite direction of where the lines are at the top. 
 
-This experiment could be the basis of a real world application such as (insert something here).
+Even though this experiemnt ended in a failure, but we soon found out it was the problem with the coding and fixed it right away, it was still fun building the exoeriemtn and actually learning something that I have never seen before.
+
+This experiment could be the basis of a real world application such as a robotic hand, a robtic hand is actually all around the internet, and most of them are using the flex sensor, with this technology people are able to tocuh smoething and control them without having rally to have contect with them, and with the advance of technology, it is not hard to believe that in the future, we would be able to move something that is in a different country with a robotic glove (flex sensor).
 
 ### Experiment name ###
 
