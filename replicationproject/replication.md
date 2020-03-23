@@ -130,7 +130,9 @@ Videos of total 3 different attempts with the project including the final attemp
 I have uploaded them into my youtube account, pls click the link below to have a look at them. 
 
 First attempt video: https://youtu.be/c0uuIxDhrOg
+
 Second attempt video: https://www.youtube.com/watch?v=R-hoRrswMNY
+
 Third attempt video: https://www.youtube.com/watch?v=FkaJQxPbNTg
 
 ### Reflection ###
