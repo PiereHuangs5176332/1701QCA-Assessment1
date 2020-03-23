@@ -57,20 +57,19 @@ This experiment could be the basis of a real world application such as many diff
 
 ### Experiment name ###
 
-(Replace this with the experiment name)
+LED buzzer experiment
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](WechatIMG146.jpeg)
 
-(Insert a caption here)
+A complete caption of the project
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, something new to me was or something I learned was how to code both the LED na dthe Buzzer, as in this experiment I leanred that when we code, we have to seprate each of the things we want to control or they will just follow the same orders from the coding, and also when building the experiemtn, I have discovered that when connecting the jumper wires, they will needed to be connect to differetn sections of the microbit or they will be talking the same coding message when connected to the same part of the microbit. 
 
-This experiment could be the basis of a real world application such as (insert something here).
+This experiment could be the basis of a real world application such as the pedestrian light that is already in use around the world, as the green light lightens up, a sound is made, and this is the same as my experiment, when the LED is light on, the buzzer makes a sound, these two shares the same concept but the pedestrian is alot more complicted. 
 
 ### Experiment name ###
 
