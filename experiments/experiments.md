@@ -41,20 +41,19 @@ This experiment could be the basis of a real world application such as a robotic
 
 ### Experiment name ###
 
-(Replace this with the experiment name)
+LED experiment
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](WechatIMG143.jpeg)
 
-(Insert a caption here)
+A completetion caption of the experiment
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, something new to me was or something I learned was creating a electrical circuit for the whole experiment to work. Learning my mistakes from the previous experiment Ultrasonic sensor, I have learned that creating a electrical circuit is really important, and this this experiment, it is really the only thing that can go wrong, after checking and checking that I have built the experiemtn right, I connected with the microbit that has the code inside it and the experiment ended in a success. 
 
-This experiment could be the basis of a real world application such as (insert something here).
+This experiment could be the basis of a real world application such as many different interactive arts, as LED can create different color lights, it is really interesting to see what artist and designers can do with them, even though there are already alot of artist and designers have played with this already, it is still interesting to see what something new could come out from it.
 
 ### Experiment name ###
 
