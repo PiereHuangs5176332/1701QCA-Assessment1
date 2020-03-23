@@ -130,7 +130,7 @@ This project connects the Banana with a Microbit, with the coding and building o
 
 *Provide some other image that gives a viewer a different perspective on the project such as more about how it functions, the project in use, or something else.*
 
-![Image](WechatIMG158.jpeg)
+![Image](WechatIMG157.jpeg)
 ![Image](WechatIMG159.jpeg)
 
 ### Reflection ###
