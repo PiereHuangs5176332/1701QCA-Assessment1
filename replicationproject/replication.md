@@ -100,8 +100,13 @@ To consider a user might use this to do what I didn't make this project for, the
 
 ## Process documentation
 
-有機酸 2020-03-03 18.46.25.mp4
-
+![Image](WechatIMG151.jpeg)
+![Image](WechatIMG152.jpeg)
+![Image](WechatIMG153.jpeg)
+![Image](WechatIMG154.jpeg)
+![Image](WechatIMG155.jpeg)
+![Image](WechatIMG156.jpeg)
+![Image](WechatIMG157.jpeg)
 
 ## Project outcome ##
 
