@@ -137,13 +137,13 @@ Third attempt video: https://www.youtube.com/watch?v=FkaJQxPbNTg
 
 ### Reflection ###
 
-*Describe the parts of your project you felt were most successful and the parts that could have done with improvement, whether in terms of outcome, process, or understanding.*
+In this project, I think the most successful part was actually completeing the project on my own, as a person that is new the the coding world, I am happy with the outcome of the porject, but after all there are alot of improvements that could be made during the wroking process and in the final outcome. I think that I could have done alot more with the coding or play with it more, and also that there was a problem that I have came across that I couldn't solve, which was that in all of my attempts including the final outcome, I always needed to be pressing both left and right Banana to ba able to make music, this is a problem that I have not been able to solve, but oerall, I am happy with the final outcome and the completion of the project.
 
 
-*What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?*
+*The thing I have found most usefull was from the related projects, as they were all simnilar with my project, and it really helped me during the making of my project as they provide me with a knoweledge of what the outcome would look like. And the most important part is the electrical circuit, some of the realetd projects showes their complete circuit which really helped me in having a rough idea of what mine should be looking like. 
 
 
-*What ideas have you read, heard, or seen that informed your thinking on this project? (Provide references.)*
+*In the realted project 2 ( https://www.youtube.com/watch?v=B2esj9-7RU4), this related project helped me the most, this project gace me a idea of how everything should be working and really give me a "direction" of how i should be doing my project, this related project is like a final goal to me when I was building up the project*
 
 
-*What might be an interesting extension of this project? In what other contexts might this project be used?*
+*An interesting extension with this project would be actualy using the keyboard to do play games, type...etc like in the related project where one of them used the keyboard to play video games, it will be interesting to see how far this Banana keyboard concept can go, and where it can be used for. Also I believed that this project is not that hard to understand, it could be an begginer exercise for students that wants to start coding, this project is fun and not too complictaed, this is where I believe what this project can be used for in the present and in the future. *
