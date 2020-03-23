@@ -100,15 +100,8 @@ To consider a user might use this to do what I didn't make this project for, the
 
 ## Process documentation
 
-*In this section, include text and images that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.*
+有機酸 2020-03-03 18.46.25.mp4
 
-*This should have quite a lot of information!*
-
-*There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. Use the code below to include images, and copy it for each image, updating the information for each.*
-
-![Image](missingimage.png)
-
-*Include screenshots of the code you have used.*
 
 ## Project outcome ##
 
