@@ -67,7 +67,7 @@ A complete caption of the project
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was how to code both the LED na dthe Buzzer, as in this experiment I leanred that when we code, we have to seprate each of the things we want to control or they will just follow the same orders from the coding, and also when building the experiemtn, I have discovered that when connecting the jumper wires, they will needed to be connect to differetn sections of the microbit or they will be talking the same coding message when connected to the same part of the microbit. 
+In this experiment, something new to me was or something I learned was how to code both the LED and the Buzzer, as in this experiment I leanred that when we code, we have to seprate each of the things we want to control or they will just follow the same orders from the coding, and also when building the experiemtn, I have discovered that when connecting the jumper wires, they will needed to be connect to differetn sections of the microbit or they will be talking the same coding message when connected to the same part of the microbit.This experiment is an extension of the LED experiment.
 
 This experiment could be the basis of a real world application such as the pedestrian light that is already in use around the world, as the green light lightens up, a sound is made, and this is the same as my experiment, when the LED is light on, the buzzer makes a sound, these two shares the same concept but the pedestrian is alot more complicted. 
 
@@ -84,7 +84,7 @@ Complete caption of the experiment
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, something new to me was or something I learned was more of the coding part as this is an extention experiment from the previous LED BUZZER experiment, in this what i learned was the actual Morse code and how to code them in repeate as the LED also lights on the same tempo as the Morse code. Coding was alot more complicated as we need to consider the actual morse code and the timing of the LED and the Buzzer to fit into the code, it took sometime to complete, but the result of the experiemtn was really sucessful. 
 
-This experiment could be the basis of a real world application such as (insert something here).
+This experiment could be the basis of a real world application such as an SOS help signal, if we can built this into a smaller version in the future, people could carry this around on themself and whenever people are in danger, specially at night, others will be able to see to flashing lighst and provide help, and the buzzer also does a big part as well, if the victim was hurt and couldn't make a sound, the buzzer will provide a good help in helping the others to find the victim. 
 
