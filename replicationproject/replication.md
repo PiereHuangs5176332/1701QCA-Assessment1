@@ -126,8 +126,9 @@ The completed project with some changes add on to it.
 ![Image](WechatIMG160.jpeg)
 
 ### Additional view ###
+Videos of total 3 different attempts with the project including the final attempt as complete project.
 
-*Provide some other image that gives a viewer a different perspective on the project such as more about how it functions, the project in use, or something else.*
+<video src="有機酸 2020-03-03 18.46.25.mp4" width="320" height="200" controls preload></video>
 
 
 ### Reflection ###
