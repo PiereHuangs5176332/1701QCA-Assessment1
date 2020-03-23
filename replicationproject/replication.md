@@ -121,17 +121,14 @@ Banana Keyboard Replication
 This project connects the Banana with a Microbit, with the coding and building of the project, when the users press the Banana, music will come out from the buzzer as that is what the code is deigned for and what the project is built for. 
 
 ### Showcase image ###
-
-*Try to capture the image as if it were in a portfolio, sales material, or project proposal. The project isn't likely to be something that finished, but practice making images that capture the project in that style.*
-
-![Image](missingimage.png)
+The completed project with some changes add on to it. 
+![Image](WechatIMG157.jpeg)
+![Image](WechatIMG159.jpeg)
 
 ### Additional view ###
 
 *Provide some other image that gives a viewer a different perspective on the project such as more about how it functions, the project in use, or something else.*
 
-![Image](WechatIMG157.jpeg)
-![Image](WechatIMG159.jpeg)
 
 ### Reflection ###
 
