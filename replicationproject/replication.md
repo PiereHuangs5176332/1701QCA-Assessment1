@@ -101,8 +101,10 @@ To consider a user might use this to do what I didn't make this project for, the
 ## Process documentation
 
 ![Image](WechatIMG151.jpeg)
+This is the very first attempt with the project, after having to build the Banana Keyboard and sending the code done to the microbit, testing the final outcome is what needed to be done, and it works fine as i press the banana the music comes out, the first attempt was a success.
 ![Image](WechatIMG152.jpeg)
 ![Image](WechatIMG153.jpeg)
+After the first attempt, I went further into the tutorial and created the more complicated code for the project.
 ![Image](WechatIMG154.jpeg)
 ![Image](WechatIMG155.jpeg)
 ![Image](WechatIMG156.jpeg)
