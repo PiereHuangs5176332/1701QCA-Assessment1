@@ -113,13 +113,12 @@ After doing all of the attempts, I have decided to play with the project abit by
 
 ## Project outcome ##
 
-*Complete the following information.*
-
 ### Project title ###
+Banana Keyboard Replication
 
 ### Project description ###
 
-*In a few sentences, describe what the project is and does, who it is for, and a typical use case.*
+This project connects the Banana with a Microbit, with the coding and building of the project, when the users press the Banana, music will come out from the buzzer as that is what the code is deigned for and what the project is built for. 
 
 ### Showcase image ###
 
@@ -131,7 +130,8 @@ After doing all of the attempts, I have decided to play with the project abit by
 
 *Provide some other image that gives a viewer a different perspective on the project such as more about how it functions, the project in use, or something else.*
 
-![Image](missingimage.png)
+![Image](WechatIMG158.jpeg)
+![Image](WechatIMG159.jpeg)
 
 ### Reflection ###
 
