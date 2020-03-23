@@ -1,5 +1,6 @@
 # Assessment 1: Replication project
-
+By: Piere Huang
+Student No. : S5176332
 
 ## Replication project choice ##
 The project I have chosen to replicate is the Banana Keyboard
