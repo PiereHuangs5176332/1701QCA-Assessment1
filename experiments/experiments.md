@@ -26,11 +26,10 @@ This experiment could be the basis of a real world application such as an auto d
 (Replace this with the experiment name)
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](WechatIMG142.jpeg)
 
-(Insert a caption here)
+A final completion of the expermient done
 
 #### Reflection ####
 
