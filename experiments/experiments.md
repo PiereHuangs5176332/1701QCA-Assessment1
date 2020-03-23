@@ -73,14 +73,14 @@ This experiment could be the basis of a real world application such as the pedes
 
 ### Experiment name ###
 
-(Replace this with the experiment name)
+Morse code LED bizzer
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](WechatIMG149.jpeg)
+![Image](WechatIMG147.jpeg)
 
-(Insert a caption here)
+Complete caption of the experiment
 
 #### Reflection ####
 
